@@ -1,2 +1,2 @@
 # pacssembler
-Assembler for Veripac code machine with Sinclair Spectrum Basic flavor
+Assembler for Veripac machine code with Sinclair Spectrum Basic flavor
